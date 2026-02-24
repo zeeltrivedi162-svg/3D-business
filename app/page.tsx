@@ -18,7 +18,7 @@ export default function Home() {
       {/* Your Hero Content */}
       <div className="hero-content">
         <h1>
-          3D <span> Module </span> Website
+          3D <span> business Module </span> Website
         </h1>
 
         <p>
